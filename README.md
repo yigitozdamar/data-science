@@ -1,2 +1,3 @@
 # pilots-world
-Csv working : writing and reading a csv file 
+
+eda : Kesifci veri analizi
